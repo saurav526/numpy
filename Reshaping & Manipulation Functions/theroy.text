@@ -1,0 +1,17 @@
+reshape() – Changes the shape of an array without changing its data.
+
+flatten() – Converts a multi-dimensional array into a 1-D copy.
+
+ravel() – Converts an array into a 1-D view (no copy if possible).
+
+transpose() – Swaps rows and columns of an array.
+
+swapaxes() – Interchanges two specified axes of an array.
+
+expand_dims() – Adds a new axis to increase array dimensions.
+
+squeeze() – Removes axes with size 1 from the array.
+
+concatenate() – Joins two or more arrays along an existing axis.
+
+split() – Divides an array into multiple sub-arrays.
