@@ -1,0 +1,21 @@
+🔹 Statistical Functions (One-Line Each)
+
+mean() – Calculates the average value of all elements in the array.
+
+median() – Finds the middle value of the sorted array.
+
+sum() – Returns the total sum of all array elements.
+
+min() – Finds the smallest value in the array.
+
+max() – Finds the largest value in the array.
+
+std() – Measures how much the data values deviate from the mean.
+
+var() – Calculates the variance of the array elements.
+
+argmin() – Returns the index of the minimum value in the array.
+
+argmax() – Returns the index of the maximum value in the array.
+
+percentile() – Returns the value below which a given percentage of data falls.
