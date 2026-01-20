@@ -1,0 +1,17 @@
+Linear Algebra Functions (One Line Each)
+
+np.dot() – Computes the dot product of two arrays or vectors.
+
+np.matmul() – Performs matrix multiplication between two matrices.
+
+np.linalg.det() – Calculates the determinant of a square matrix.
+
+np.linalg.inv() – Finds the inverse of a square matrix.
+
+np.linalg.eig() – Returns the eigenvalues and eigenvectors of a matrix.
+
+np.linalg.svd() – Decomposes a matrix into U, S, and V matrices.
+
+np.linalg.solve() – Solves a system of linear equations of the form Ax = b.
+
+np.linalg.matrix_rank() – Determines the rank of a matrix.
