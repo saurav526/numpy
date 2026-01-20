@@ -1,0 +1,13 @@
+Sorting & Searching Functions (One Line Each)
+
+np.sort() – Sorts the elements of an array in ascending order.
+
+np.argsort() – Returns the indices that would sort an array.
+
+np.lexsort() – Sorts data using multiple sorting keys.
+
+np.searchsorted() – Finds the index where an element should be inserted to keep order.
+
+np.partition() – Partially sorts an array around a specified index.
+
+np.unique() – Returns the unique elements of an array.
