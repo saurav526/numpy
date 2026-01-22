@@ -1,0 +1,21 @@
+Save array in binary file
+a = np.array([10, 20, 30])
+np.save("data.npy", a)
+
+
+Explanation: Saves a NumPy array to a binary .npy file.
+
+2️⃣ load() – Load array from binary file
+b = np.load("data.npy")
+print("load():", b)
+
+
+Explanation: Loads a NumPy array from a .npy file.
+
+3️⃣ savetxt() – Save array as text file
+np.savetxt("data.txt", a)
+
+
+Explanation: Saves array data to a text file.
+
+4️⃣ loadtxt() – Load array from text file
