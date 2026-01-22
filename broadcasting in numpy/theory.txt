@@ -1,0 +1,24 @@
+Broadcasting (automatic)
+x = np.array([1, 2, 3])
+y = 10
+print("Broadcasting result:", x + y)
+
+
+Explanation: Automatically expands smaller array values to match larger array shape.
+
+6️⃣ broadcast_to() – Manual broadcasting
+d = np.array([5, 6])
+print("broadcast_to():\n", np.broadcast_to(d, (3, 2)))
+
+
+Explanation: Explicitly broadcasts an array to a new shape.
+
+🔹 Vectorization Functions (with Code + One-Line Explanation)
+7️⃣ Vectorized Operation
+e = np.array([1, 2, 3, 4])
+print("Vectorized square:", e * e)
+
+
+Explanation: Performs operations on entire arrays without loops.
+
+8️⃣ vectorize() – Convert function to vectorized form
