@@ -42,3 +42,4 @@ print("\nsolve():", solution)
 
 # 8. matrix rank
 print("\nmatrix_rank():", np.linalg.matrix_rank(A))
+print ("\nmatrix_rank():", np.linalg.matrix_rank(B))
