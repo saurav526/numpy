@@ -38,3 +38,4 @@ print("argmax():", np.argmax(a))
 
 # percentile
 print("percentile(50):", np.percentile(a, 50))
+print("np.sqrt():", np.sqrt(a))
