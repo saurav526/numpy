@@ -34,7 +34,7 @@ print("ceil():", np.ceil(z))
 
 # Arithmetic Operations
 
-# add() – Adds corresponding elements of two arrays.
+# add() – Adds corresponding elements of two arrays
 
 # subtract() – Subtracts elements of one array from another.
 
